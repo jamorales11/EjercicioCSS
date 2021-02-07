@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+}
+
+p {
+  text-align: center;
+}
+
+#tAzul {
+  color: blue;
+}
+
+#tNaranja {
+  color: orange;
+}
+
+#pAzul {
+  color: blue;
+  font-weight: bold;
+}
